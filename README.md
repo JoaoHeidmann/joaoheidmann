@@ -7,7 +7,7 @@
 - 📫 Como entrar em contato comigo: fbheidmann@gmail.com
 - ⚡ Curiosidade: Vejo animes, Jogos online, Estudo a noite, Gosto de manutenção de computadores.
 
-- Habilidades:
+- Estatística:
 
 [![Geral](https://github-readme-stats.vercel.app/api?username=joaoheidmann)](https://github.com/joaoheidmann/github-readme-stats)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoheidmann)](https://github.com/anuraghazra/github-readme-stats.)
