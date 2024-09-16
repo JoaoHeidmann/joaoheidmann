@@ -2,7 +2,6 @@
 - 🔭 Atualmente estou trabalhando em Estoque.
 - 🌱 Atualmente estou aprendendo HTML,CSS,SQL.
 - 👯 Procuro colaborar em Front-end.
-- 🤔 Estou procurando ajuda com amizades.
 - 💬 Pergunte-me sobre jogos.
 - 📫 Como entrar em contato comigo: fbheidmann@gmail.com
 - ⚡ Curiosidade: Vejo animes, Jogos online, Estudo a noite, Gosto de manutenção de computadores.
